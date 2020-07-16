@@ -24,6 +24,11 @@ In my <strong>free time</strong>, I am an ambassador for the Female Laboratory o
 
 <strong>Professionally</strong>, I have been gaining amazing experience! During summer of 2020, I was fortunate to join Edify, a engineering onboarding startup, remotely as an operations intern and an apprentice in product and engineering. During my operations internship, I developed research to measure success of software, applied original UX research to operations, product, and marketing initiatives in collaboration with the CEO and Product Director. For my product and engineering apprenticeship, I conducted user and UI/UX research implementing video game strategy to further develop the product roadmap. I also conducted research on technical documentation and laid out the plan to implement various forms of technical documentation into the business in both the backend and customer facing aspects! I am also a math instructor at Juni Learning, where I instruct students of various ages and learning styles remotely, enriching their abilities in Math and reasoning.
 
-### Before College
-<small>2015 - 2019</small>
+### Future Goals
+
+* Land an awesome Summer 2021 internship
+* Make a stranger smile every day
+* Take a finance class
+* Host my second webinar series and reach even more young, STEM students!
+
 
