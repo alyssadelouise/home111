@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /aboutme/
+title: Resume
+permalink: /resume/
 image: picresume.jpg
 ---
 
