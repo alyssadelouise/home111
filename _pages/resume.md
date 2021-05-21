@@ -4,4 +4,5 @@ title: Resume
 permalink: /resume/
 ---
 
-picresume.jpg
+<img src="{{ site.baseurl }}/images/picresume.jpg" alt="{{ 'Resume' }}">
+
