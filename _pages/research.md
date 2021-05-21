@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-image: IMG_9717.jpg
+image: phonorscollege.png
 ---
 
 Hiya there, my name is Alyssa DeLouise. I am an aspiring innovator in tech with a passion for STEM adovocacy and outreach. As a first-gen, woman in STEM I have found myself struggling with the college process, financial stability, and confidence in achieving my dreams. Today, I use my imposter syndrome as motivation to continue to battle the hurdles of my success and come out victorious. I am so fortunate to be able to use my platforms to share my story, offer insight on my experiences, give advice, and hopefully empower the next generation of powerful women and diversity in STEM.
