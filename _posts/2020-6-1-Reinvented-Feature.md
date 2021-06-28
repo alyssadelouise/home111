@@ -2,7 +2,7 @@
 layout: post
 title:  My Feature in Reinvented Magazine
 date:   2020-06-01 18:05:55 +0300
-image:  IMG_9717.jpg
+image:  reinvented.png
 tags:   Women STEM First-Gen
 ---
 
